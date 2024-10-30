@@ -2,7 +2,10 @@
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 
 - 📫 How to reach me **uthpala9931@gmail.com**
-![290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f](https://github.com/user-attachments/assets/bb0379f7-7be6-4c3c-bda7-8514a44f233a)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb0379f7-7be6-4c3c-bda7-8514a44f233a" alt="animated" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
